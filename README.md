@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center" style="margin-top: 25px; font-size: 24px; font-weight: bold; color: red;">
-  🚀 For <u>FASTEST</u> UDP simulation, run the <code style="font-size: 22px;">.exe</code> version instead of the Python script!
+  🚀 For <u>FASTEST</u> UDP FLOODING SAMP, run the <code style="font-size: 22px;">.exe</code> version instead of the Python script!
 </div>
 
 <br />
