@@ -36,7 +36,7 @@
     <ul>
       <li>Click the <code>Ddosstool.exe</code> file (recommended)</li>
       <li>Or run manually via terminal:
-        <br /><code>python ddostool.py ( Not Working Right Now</code></li>
+        <br /><code>python ddostool.py ( Not Working update Soon)</code></li>
     </ul>
   </li>
   <li>Enter these when prompted:
