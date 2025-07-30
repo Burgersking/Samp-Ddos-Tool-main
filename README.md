@@ -36,7 +36,7 @@
     <ul>
       <li>Click the <code>Ddosstool.exe</code> file (recommended)</li>
       <li>Or run manually via terminal:
-        <br /><code>python ddostool.py</code></li>
+        <br /><code>python ddostool.py ( Not Working Right Now</code></li>
     </ul>
   </li>
   <li>Enter these when prompted:
@@ -47,7 +47,7 @@
       <li><code>Duration (seconds)</code></li>
     </ul>
   </li>
-  <li>The tool will start <strong>UDP traffic simulation</strong> on your test server</li>
+  <li>The tool will start <strong>UDP traffic simulation</strong> on server</li>
 </ol>
 
 <hr />
