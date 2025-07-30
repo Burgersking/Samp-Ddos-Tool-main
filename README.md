@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="font-size: 60px; font-weight: 900; color: #222; margin-top: 20px;">
-  ⚡ UDP Simulator – <span style="color: crimson;">Educational Use Only</span> ⚡
+  ⚡ UDP FLOODING SAMP – <span style="color: crimson;">Educational Use Only</span> ⚡
 </h1>
 
 <div align="center" style="margin-top: 25px; font-size: 24px; font-weight: bold; color: red;">
