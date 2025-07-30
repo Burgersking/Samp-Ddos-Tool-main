@@ -1,0 +1,42 @@
+─────────────────────────────────────────────────────────────
+               UDP Simulator Tool – Educational Only
+─────────────────────────────────────────────────────────────
+
+Copyright (c) 2025 NIGHT Knight263
+
+All rights reserved.
+
+This tool is provided for **educational and ethical research purposes only**. 
+It is designed to simulate UDP-based traffic in **controlled lab environments** 
+to teach students and researchers about network resilience and DDoS mitigation.
+
+─────────────────────────────────────────────────────────────
+⚠️  Unauthorized Use is Prohibited
+─────────────────────────────────────────────────────────────
+
+You MAY NOT:
+- Use this tool against any public, private, or unauthorized servers.
+- Modify or redistribute this tool for malicious purposes.
+- Attempt to conceal or misrepresent this tool’s origin or intent.
+
+Doing so may result in:
+- Violation of cybercrime laws
+- ISP bans or legal action
+- Blacklisting from platforms or communities
+
+─────────────────────────────────────────────────────────────
+📜 License: Educational Use License (EUL-1.0)
+─────────────────────────────────────────────────────────────
+
+Permission is granted to use this tool solely for:
+- Ethical cybersecurity testing
+- Self-hosted private game server analysis
+- White-hat learning and academic instruction
+
+Commercial use, resale, or integration into malicious frameworks 
+is strictly forbidden.
+
+─────────────────────────────────────────────────────────────
+
+For more information, contact the developer or read the full EUL license.
+
