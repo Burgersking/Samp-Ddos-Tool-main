@@ -16,10 +16,7 @@ def display_banner():
 | |_| | |_| |  __/\__ \ | |_| | (_| | (_) | | | | | (_) | | | |
 |____/|____/ \___||___/ |____/ \__,_|\___/|_| |_|_|\___/|_| |_|
 
-Author   : HA-MRX
-YouTube  : https://www.youtube.com/c/HA-MRX
-GitHub   : https://github.com/Ha3MrX
-Facebook : https://www.facebook.com/muhamad.jabar222
+
 Version  : 2.3.7 - DDoss Edition
 Updated  : {}
     '''.format(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
