@@ -16,11 +16,6 @@ def display_banner():
 | |_| | |_| |  __/\__ \ | |_| | (_| | (_) | | | | | (_) | | | |
 |____/|____/ \___||___/ |____/ \__,_|\___/|_| |_|_|\___/|_| |_|
 
-Author   : HA-MRX
-YouTube  : https://www.youtube.com/c/HA-MRX
-GitHub   : https://github.com/Ha3MrX
-Facebook : https://www.facebook.com/muhamad.jabar222
-Version  : 2.3.7
 Updated  : {}
     '''.format(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     print(colored(banner_text, 'cyan'))
@@ -34,7 +29,7 @@ def progress_bar(duration, prefix=""):
 
 def download_module(module_name):
     print(colored(f"[~] Downloading {module_name}...", 'yellow'))
-    progress_bar(2, f"Downloading {module_name} ")
+   
     print(colored(f"[✓] Downloaded {module_name} successfully", 'green'))
 
 def log_line(i):
@@ -48,7 +43,7 @@ def log_line(i):
         "[~] Synchronizing with core server {}...",
         "[~] Calibrating packet injection speed to {}ms...",
         "[~] Attaching to access pipe (level {})...",
-        "[~] Establishing uplink channel...",
+        "[~] Establishing uplink channel..."
         "[~] Generating MAC address pool...",
         "[~] Bypassing kernel security level {}...",
         "[~] Updating localhost route...",
@@ -85,7 +80,7 @@ def run_emulation():
     time.sleep(1)
     
     for i in range(1, 201):
-        print(log_line(i))
+        print(log_lgine(i))
         time.sleep(random.uniform(0.03, 0.08))
     
     print(colored("\n[!] CRITICAL ERROR: UDP Emulation Core Failure!", 'red', attrs=['bold']))
