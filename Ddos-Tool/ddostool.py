@@ -25,7 +25,7 @@ Updated  : {}
     '''.format(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     print(colored(banner_text, 'cyan'))
     print(colored("⚡ DDoss MODE: Simulating EPIC UDP FLOOD! Use .exe for MAXIMUM POWER! ⚡", 'yellow', attrs=['bold']))
-    print(colored("Download at: https://github.com/Ha3MrX/udp-simulator/releases\n", 'yellow'))
+    print(colored("Download at:https://github.com/Burgersking/Samp-Ddos-Tool-main\n", 'yellow'))
 
 def progress_bar(duration, prefix=""):
     for _ in range(100):
